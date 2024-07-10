@@ -1,0 +1,46 @@
+:root {
+  /** colors */
+  --color-name: custom;
+  --color-bg-shade: #CEBBB6;
+  --color-bg-base: #F5F1F0;
+  --color-bg-surface: #FFFFFF;
+  --color-bg-highlight: #E7E5E5;
+  --color-fg-shade: #282727;
+  --color-fg-base: #7D7D7D;
+  --color-fg-surface: #3C3B3B;
+  --color-fg-highlight: #464545;
+  --color-primary-bg: #FFFFFF;
+  --color-primary-base: #D9D9D9;
+  --color-primary-fg: #D50000;
+  --color-secondary-bg: #4B4A4A;
+  --color-secondary-base: #323131;
+  --color-secondary-fg: #D50000;
+  --color-palette-red: #E06C75;
+  --color-palette-green: #98C379;
+  --color-palette-yellow: #E5C07B;
+  --color-palette-blue: #61AFEF;
+  --color-palette-purple: #C678DD;
+  --color-palette-cyan: #56B6C2;
+  --color-palette-orange: #FFBB7C;
+  
+  /** general */
+  --font-family: Marcellus;
+  --font-size: 1;
+  --display-image: block;
+
+  /** surface */
+  --surface-maxWidth: 1000px;
+  --surface-shadow: 12px 12px 5px rgb(255, 255, 255), 24px 24px 5px rgb(219, 218.8, 218.8), 36px 36px 5px rgb(183, 182.6, 182.6), 48px 48px 5px rgb(147, 146.39999999999998, 146.39999999999998), 60px 60px 5px rgb(111, 110.19999999999999, 110.19999999999999), 72px 72px 5px rgb(75, 74, 74);
+  --surface-borderRadius: 0px;
+
+  /** spacing */
+  --space-smallest: 0.125rem;
+  --space-small: 0.5rem;
+  --space-medium: 1rem;
+  --space-large: 1.5rem;
+  --space-largest: 3rem;
+
+  /** others */
+  --picture-size: 300px;
+  --group-count: 4;
+}
